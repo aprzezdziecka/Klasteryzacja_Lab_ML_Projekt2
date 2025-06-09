@@ -1,0 +1,16 @@
+model,params,score
+OPTICS,"max_eps=5.0, min_samples=10",0.009070273232487186
+OPTICS,"max_eps=1.0, min_samples=10",-0.008162549312785403
+OPTICS,"max_eps=0.5, min_samples=5",-0.32765037798631275
+OPTICS,"max_eps=0.7, min_samples=10",-0.3936229783137739
+OPTICS,"max_eps=5.0, min_samples=3",-0.4972148020781331
+OPTICS,"max_eps=1.0, min_samples=3",-0.5021239937390453
+OPTICS,"max_eps=0.7, min_samples=3",-0.5232038208348107
+OPTICS,"max_eps=0.7, min_samples=5",-0.5438241353537493
+OPTICS,"max_eps=1.0, min_samples=5",-0.5582348360676602
+OPTICS,"max_eps=5.0, min_samples=5",-0.5585574807720426
+OPTICS,"max_eps=0.5, min_samples=3",-0.5629103034320048
+OPTICS,"max_eps=0.3, min_samples=3",
+OPTICS,"max_eps=0.3, min_samples=5",
+OPTICS,"max_eps=0.3, min_samples=10",
+OPTICS,"max_eps=0.5, min_samples=10",

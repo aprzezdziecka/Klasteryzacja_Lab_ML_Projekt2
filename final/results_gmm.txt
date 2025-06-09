@@ -1,0 +1,25 @@
+model,params,score
+GMM,"k=2, covariance=full",0.4386992376386601
+GMM,"k=2, covariance=diag",0.4386992376386601
+GMM,"k=3, covariance=spherical",0.16009368398799503
+GMM,"k=2, covariance=spherical",0.1504809715619159
+GMM,"k=2, covariance=tied",0.14757726982345032
+GMM,"k=4, covariance=full",0.11905871257169173
+GMM,"k=6, covariance=spherical",0.1143808563315235
+GMM,"k=5, covariance=spherical",0.11313494239046608
+GMM,"k=3, covariance=diag",0.11113088733938854
+GMM,"k=7, covariance=spherical",0.11077545336349393
+GMM,"k=4, covariance=spherical",0.1099286289490711
+GMM,"k=5, covariance=tied",0.10418158190769522
+GMM,"k=3, covariance=tied",0.10083796876283761
+GMM,"k=4, covariance=diag",0.09872855897590864
+GMM,"k=7, covariance=tied",0.09615233791531586
+GMM,"k=4, covariance=tied",0.09593360388397636
+GMM,"k=6, covariance=tied",0.09326980813831869
+GMM,"k=7, covariance=diag",0.07294132453560513
+GMM,"k=5, covariance=full",0.0682006803562206
+GMM,"k=5, covariance=diag",0.06430001985071254
+GMM,"k=6, covariance=full",0.05252852708215716
+GMM,"k=3, covariance=full",0.04326192748116858
+GMM,"k=6, covariance=diag",0.020228129775536365
+GMM,"k=7, covariance=full",0.015486156196423666

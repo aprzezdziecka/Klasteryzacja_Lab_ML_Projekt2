@@ -1,0 +1,16 @@
+model,params,score
+DBSCAN,"eps=5.0, min_samples=10",0.4386992376386601
+DBSCAN,"eps=5.0, min_samples=3",0.4386992376386601
+DBSCAN,"eps=5.0, min_samples=5",0.4386992376386601
+DBSCAN,"eps=0.3, min_samples=3",0.41935408968859883
+DBSCAN,"eps=1.0, min_samples=10",-0.19288497175424527
+DBSCAN,"eps=1.0, min_samples=5",-0.3062348284570863
+DBSCAN,"eps=0.5, min_samples=5",-0.40515961130446115
+DBSCAN,"eps=1.0, min_samples=3",-0.4087116194723589
+DBSCAN,"eps=0.7, min_samples=10",-0.45545493490146577
+DBSCAN,"eps=0.7, min_samples=5",-0.5189499424384454
+DBSCAN,"eps=0.7, min_samples=3",-0.519626950030454
+DBSCAN,"eps=0.5, min_samples=3",-0.5737637237273386
+DBSCAN,"eps=0.3, min_samples=5",
+DBSCAN,"eps=0.3, min_samples=10",
+DBSCAN,"eps=0.5, min_samples=10",
